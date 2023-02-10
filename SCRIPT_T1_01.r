@@ -3,7 +3,9 @@
 # Copiar todo esto #
 #                  #
 ####################
-# Hecho con gusto por _______________________________________
+# Hecho con gusto por Leislie Rocio Manjarrez Olmos
+
+# CODIGO MODIFICADO EN DIA JUEVES
 
 # Laboratorio - Analisis de redes en R - Algebra matricial
 
